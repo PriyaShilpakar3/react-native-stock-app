@@ -91,28 +91,26 @@ Visual comparison of gains/losses
 
 ## 📸 Screenshots
 
-### 🏠  Index Page
-| Screen 1 | Screen 2 |
-|----------|----------|
-| ![Index 1](/assets/screenshots/index1.png) | ![Index 2](/assets/screenshots/index2.png) |
+### 🏠 Index Page
 
-| Screen 3 | Screen 4 |
-|----------|----------|
-| ![Index 3](/assets/screenshots/index3.png) | ![Index 4](/assets/screenshots/index4.png) |
+|  |  |
+|--|--|
+| ![Index 1](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index1.png) | ![Index 2](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index2.png) |
+| ![Index 3](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index3.png) | ![Index 4](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index4.png) |
 
 ---
 
 ### 📊 Charts Page
-| Chart View 1 | Chart View 2 |
-|--------------|--------------|
-| ![Chart 1](/assets/screenshots/charts1.png) | ![Chart 2](/assets/screenshots/charts2.png) |
+
+|  |  |
+|--|--|
+| ![Charts 1](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/charts1.png) | ![Charts 2](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/charts2.png) |
 
 ---
 
 ### 🔍 Explore Page
-| Explore Screen |
-|----------------|
-| ![Explore](/assets/screenshots/explore.png) |
+
+![Explore](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/explore.png)
 
 
 🧠 Future Enhancements
