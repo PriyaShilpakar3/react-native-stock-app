@@ -89,19 +89,28 @@ Track stock performance over time
 Visual comparison of gains/losses
 
 
-📸 Screenshots
-🏠 Index Page
-|                                               |                                               |
-| --------------------------------------------- | --------------------------------------------- |
-| ![Charts 1](./assets/Screenshots/charts1.png) | ![Charts 2](./assets/Screenshots/charts2.png) |
+## 📸 Screenshots
 
-📊 Charts Page
-|                                               |                                               |
-| --------------------------------------------- | --------------------------------------------- |
-| ![Charts 1](./assets/Screenshots/charts1.png) | ![Charts 2](./assets/Screenshots/charts2.png) |
+### 🏠 Index Page
 
-🔍 Explore Page
+|  |  |
+|--|--|
+| ![Index 1](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index1.png) | ![Index 2](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index2.png) |
+| ![Index 3](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index3.png) | ![Index 4](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index4.png) |
 
+---
+
+### 📊 Charts Page
+
+|  |  |
+|--|--|
+| ![Charts 1](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/charts1.png) | ![Charts 2](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/charts2.png) |
+
+---
+
+### 🔍 Explore Page
+
+![Explore](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/explore.png)
 
 
 🧠 Future Enhancements
