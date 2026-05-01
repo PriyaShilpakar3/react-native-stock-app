@@ -93,24 +93,23 @@ Visual comparison of gains/losses
 ## 📸 Screenshots
 
 ### 🏠 Index Page
-
-![Index 1](./assets/Screenshots/index1.png)  
-![Index 2](./assets/Screenshots/index2.png)  
-![Index 3](./assets/Screenshots/index3.png)  
-![Index 4](./assets/Screenshots/index4.png)
+ stock-portfolio/assets/screenshots/index1.png
+ stock-portfolio/assets/screenshots/index2.png
+ stock-portfolio/assets/screenshots/index3.png
+ stock-portfolio/assets/screenshots/index4.png
 
 ---
 
 ### 📊 Charts Page
 
-![Charts 1](./assets/Screenshots/charts1.png)  
-![Charts 2](./assets/Screenshots/charts2.png)
+ stock-portfolio/assets/screenshots/charts1.png
+ stock-portfolio/assets/screenshots/charts2.png
 
 ---
 
 ### 🔍 Explore Page
 
-![Explore](./assets/Screenshots/explore.png)
+![Explore](stock-portfolio/assets/screenshots/explore.png)
 
 🧠 Future Enhancements
 
