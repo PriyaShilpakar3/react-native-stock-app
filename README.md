@@ -104,7 +104,8 @@ BASE_URL=https://www.alphavantage.co/query
 
 ## 📸 Screenshots
 
-### 🏠  Index Page
+### 🏠 Index Page
+
 | Screen 1 | Screen 2 |
 |----------|----------|
 | ![Index 1](./assets/Screenshots/index1.png) | ![Index 2](./assets/Screenshots/index2.png) |
@@ -116,9 +117,24 @@ BASE_URL=https://www.alphavantage.co/query
 ---
 
 ### 📊 Charts Page
+
 | Chart View 1 | Chart View 2 |
 |--------------|--------------|
-| ![Chart 1](./assets/screenshots/charts1.png) | ![Chart 2](./assets/screenshots/charts2.png) |
+| ![Chart 1](./assets/Screenshots/charts1.png) | ![Chart 2](./assets/Screenshots/charts2.png) |
+
+---
+
+### 🔍 Explore Page
+
+| Explore Screen |
+|----------------|
+| ![Explore](./assets/Screenshots/explore.png) |
+---
+
+### 📊 Charts Page
+| Chart View 1 | Chart View 2 |
+|--------------|--------------|
+| ![Chart 1](./assets/Screenshots/charts1.png) | ![Chart 2](./assets/Screenshots/charts2.png) |
 
 ---
 
