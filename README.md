@@ -94,7 +94,7 @@ Visual comparison of gains/losses
 
 ### 🏠 Index Page
 
-![Index 1](./assets/Screenshots/index1.png)  
+<img src="https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/Screenshots/index1.png" width="300" /> 
 ![Index 2](./assets/Screenshots/index2.png)  
 ![Index 3](./assets/Screenshots/index3.png)  
 ![Index 4](./assets/Screenshots/index4.png)
