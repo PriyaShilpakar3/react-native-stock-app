@@ -93,23 +93,23 @@ Visual comparison of gains/losses
 ## 📸 Screenshots
 
 ### 🏠 Index Page
- stock-portfolio/assets/screenshots/index1.png
- stock-portfolio/assets/screenshots/index2.png
- stock-portfolio/assets/screenshots/index3.png
- stock-portfolio/assets/screenshots/index4.png
+ https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/index1.png
+ https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/index2.png
+ https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/index3.png
+ https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/index4.png
 
 ---
 
 ### 📊 Charts Page
 
- stock-portfolio/assets/screenshots/charts1.png
- stock-portfolio/assets/screenshots/charts2.png
+ https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/charts1.png
+ https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/charts2.png
 
 ---
 
 ### 🔍 Explore Page
 
-stock-portfolio/assets/screenshots/explore.png
+https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/explore.png
 
 🧠 Future Enhancements
 
