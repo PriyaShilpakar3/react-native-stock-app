@@ -104,15 +104,17 @@ BASE_URL=https://www.alphavantage.co/query
 
 ## 📸 Screenshots
 
+---
+
 ### 🏠 Index Page
 
 | Screen 1 | Screen 2 |
 |----------|----------|
-| ![Index 1](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/index1.png) | ![Index 2](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/index2.png) |
+| ![Index 1](./assets/Screenshots/index1.png) | ![Index 2](./assets/Screenshots/index2.png) |
 
 | Screen 3 | Screen 4 |
 |----------|----------|
-| ![Index 3](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/index3.png) | ![Index 4](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/index4.png) |
+| ![Index 3](./assets/Screenshots/index3.png) | ![Index 4](./assets/Screenshots/index4.png) |
 
 ---
 
@@ -120,7 +122,7 @@ BASE_URL=https://www.alphavantage.co/query
 
 | Chart 1 | Chart 2 |
 |----------|----------|
-| ![Chart 1](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/chart1.png) | ![Chart 2](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/chart2.png) |
+| ![Charts 1](./assets/Screenshots/charts1.png) | ![Charts 2](./assets/Screenshots/charts2.png) |
 
 ---
 
@@ -128,7 +130,7 @@ BASE_URL=https://www.alphavantage.co/query
 
 | Explore Screen |
 |----------------|
-| ![Explore](https://raw.githubusercontent.com/PriyaShilpakar3/react-native-stock-app/main/assets/screenshots/explore.png) |
+| ![Explore](./assets/Screenshots/explore.png) |
 
 
 🧠 Future Enhancements
