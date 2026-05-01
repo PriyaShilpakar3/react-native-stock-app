@@ -1,3 +1,4 @@
+<!-- FORCE GITHUB REFRESH -->
 # 📈 React Native Stock App
 
 A modern **React Native Stock Market Tracking Application** that allows users to monitor real-time stock prices, visualize trends using interactive charts, and manage a personal portfolio.
