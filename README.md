@@ -120,7 +120,7 @@ BASE_URL=https://www.alphavantage.co/query
 
 | Chart View 1 | Chart View 2 |
 |--------------|--------------|
-| ![Chart 1](./assets/screenshots/chart1.png) | ![Chart 2](./assets/screenshots/chart2.png) |
+| ![Chart 1](./assets/screenshots/charts1.png) | ![Chart 2](./assets/screenshots/charts2.png) |
 
 ---
 
