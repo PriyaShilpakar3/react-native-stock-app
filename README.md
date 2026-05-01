@@ -110,7 +110,11 @@ Visual comparison of gains/losses
 ### 🔍 Explore Page
 
 https://github.com/PriyaShilpakar3/react-native-stock-app/blob/main/assets/screenshots/explore.png
+ 
+ 
+ ## 📸 Screenshots
 
+Also Available in `/assets/Screenshots` folder in the repository.
 🧠 Future Enhancements
 
 🔔 Push notifications for price alerts
