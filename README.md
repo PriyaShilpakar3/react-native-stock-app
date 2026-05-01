@@ -131,19 +131,6 @@ BASE_URL=https://www.alphavantage.co/query
 | ![Explore](./assets/Screenshots/explore.png) |
 ---
 
-### 📊 Charts Page
-| Chart View 1 | Chart View 2 |
-|--------------|--------------|
-| ![Chart 1](./assets/Screenshots/charts1.png) | ![Chart 2](./assets/Screenshots/charts2.png) |
-
----
-
-### 🔍 Explore Page
-| Explore Screen |
-|----------------|
-| ![Explore](./assets/screenshots/explore.png) |
-
-
 
 🧠 Future Enhancements
 
