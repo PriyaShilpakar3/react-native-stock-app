@@ -108,11 +108,11 @@ BASE_URL=https://www.alphavantage.co/query
 
 | Screen 1 | Screen 2 |
 |----------|----------|
-| ![Index 1](./assets/Screenshots/index1.png) | ![Index 2](./assets/Screenshots/index2.png) |
+| ![Index 1](./assets/screenshots/index1.png) | ![Index 2](./assets/screenshots/index2.png) |
 
 | Screen 3 | Screen 4 |
 |----------|----------|
-| ![Index 3](./assets/Screenshots/index3.png) | ![Index 4](./assets/Screenshots/index4.png) |
+| ![Index 3](./assets/screenshots/index3.png) | ![Index 4](./assets/screenshots/index4.png) |
 
 ---
 
@@ -120,7 +120,7 @@ BASE_URL=https://www.alphavantage.co/query
 
 | Chart View 1 | Chart View 2 |
 |--------------|--------------|
-| ![Chart 1](./assets/Screenshots/charts1.png) | ![Chart 2](./assets/Screenshots/charts2.png) |
+| ![Chart 1](./assets/screenshots/chart1.png) | ![Chart 2](./assets/screenshots/chart2.png) |
 
 ---
 
@@ -128,8 +128,7 @@ BASE_URL=https://www.alphavantage.co/query
 
 | Explore Screen |
 |----------------|
-| ![Explore](./assets/Screenshots/explore.png) |
----
+| ![Explore](./assets/screenshots/explore.png) |
 
 
 🧠 Future Enhancements
