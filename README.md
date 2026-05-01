@@ -109,7 +109,7 @@ Visual comparison of gains/losses
 
 ### 🔍 Explore Page
 
-![Explore](stock-portfolio/assets/screenshots/explore.png)
+stock-portfolio/assets/screenshots/explore.png
 
 🧠 Future Enhancements
 
