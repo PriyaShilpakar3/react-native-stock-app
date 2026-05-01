@@ -1,6 +1,8 @@
 # 📈 React Native Stock App
 
-A modern **React Native Stock Market Tracking Application** that allows users to monitor stock prices, visualize trends using interactive charts, and manage a personal portfolio. The app focuses on clean UI, smooth performance, and real-time financial insights.
+A modern **React Native Stock Market Tracking Application** that allows users to monitor real-time stock prices, visualize trends using interactive charts, and manage a personal portfolio.
+
+The app focuses on **clean UI, smooth performance, and real-time financial insights**.
 
 ---
 
@@ -12,7 +14,7 @@ A modern **React Native Stock Market Tracking Application** that allows users to
 - 📉 Historical stock data visualization  
 - 📋 Portfolio performance summary  
 - ⚡ Fast and responsive UI  
-- 🎨 Clean and minimal user interface  
+- 🎨 Clean and minimal design  
 
 ---
 
@@ -30,7 +32,7 @@ A modern **React Native Stock Market Tracking Application** that allows users to
 
 ## 📱 App Screens
 
-- 🏠 Explore Screen – Portfolio overview & market summary  
+- 🏠 Explore Screen – Market overview & portfolio summary  
 - 📊 Charts Screen – Stock price visualization with graphs  
 - 💼 Portfolio Screen – Saved stocks and performance tracking  
 
@@ -38,7 +40,7 @@ A modern **React Native Stock Market Tracking Application** that allows users to
 
 ## 🏗️ Project Structure
 
-```bash
+```plaintext
 react-native-stock-app/
 │
 ├── src/
@@ -50,142 +52,90 @@ react-native-stock-app/
 │   └── utils/
 │
 ├── assets/
-│   └── screenshots/
-│       ├── home1.png
-│       ├── home2.png
-│       ├── home3.png
-│       ├── home4.png
-│       ├── chart1.png
-│       ├── chart2.png
+│   └── Screenshots/
+│       ├── index1.png
+│       ├── index2.png
+│       ├── index3.png
+│       ├── index4.png
+│       ├── charts1.png
+│       ├── charts2.png
 │       └── explore.png
 │
 ├── App.tsx
 ├── package.json
-├── .gitignore
 └── README.md
 
 ⚙️ Installation
-
-Clone the repository:
-
 git clone https://github.com/PriyaShilpakar3/react-native-stock-app.git
 cd react-native-stock-app
 
-Install dependencies:
-
 npm install
-# or
-yarn install
-
-Install dependencies:
-
-npm install
-# or
+or
 yarn install
 
 🔑 Environment Variables
 
 Create a .env file in the root directory:
 
-STOCK_API_KEY=KKUAWJ0ZZPMC3QGR
+STOCK_API_KEY=your_api_key_here
 BASE_URL=https://www.alphavantage.co/query
 
 
 📊 Core Functionality
-
-  Fetch live stock data from API
-
-  Render dynamic stock charts
-  Store and manage portfolio locally/state
-  Track stock performance over time
-  Visual comparison of gains/losses
+Fetch live stock data from API
+Render dynamic stock charts
+Store and manage portfolio locally/state
+Track stock performance over time
+Visual comparison of gains/losses
 
 
-
-## 📸 Screenshots
-
----
-
-### 🏠 Index Page
-
-| Screen 1 | Screen 2 |
-|----------|----------|
-| ![Index 1](./assets/Screenshots/index1.png) | ![Index 2](./assets/Screenshots/index2.png) |
-
-| Screen 3 | Screen 4 |
-|----------|----------|
-| ![Index 3](./assets/Screenshots/index3.png) | ![Index 4](./assets/Screenshots/index4.png) |
-
----
-
-### 📊 Charts Page
-
-| Chart 1 | Chart 2 |
-|----------|----------|
+📸 Screenshots
+🏠 Index Page
+|                                               |                                               |
+| --------------------------------------------- | --------------------------------------------- |
 | ![Charts 1](./assets/Screenshots/charts1.png) | ![Charts 2](./assets/Screenshots/charts2.png) |
 
----
+📊 Charts Page
+|                                               |                                               |
+| --------------------------------------------- | --------------------------------------------- |
+| ![Charts 1](./assets/Screenshots/charts1.png) | ![Charts 2](./assets/Screenshots/charts2.png) |
 
-### 🔍 Explore Page
+🔍 Explore Page
 
-| Explore Screen |
-|----------------|
-| ![Explore](./assets/Screenshots/explore.png) |
 
 
 🧠 Future Enhancements
 
-
 🔔 Push notifications for price alerts
-
-
 📰 Real-time financial news integration
-
-
 🤖 AI-based stock prediction system
-
-
-🔍 Stock search functionality
-
-
+🔍 Advanced stock search functionality
 ☁️ Cloud sync for portfolio backup
-
-
 📊 Advanced analytics dashboard
-
 
 
 🚀 Key Highlights
 
-
 Optimized React Native performance
-
-
 Modular and scalable architecture
-
-
 Reusable component-based design
-
-
-Clean separation of concerns (UI, API, State)
-
-
+Clean separation of UI, API, and state
+	
 
 🤝 Contributing
-1. Fork the repository 
-2. Create a feature branch  
-3. Commit your changes 
- 4. Push and create a Pull Request  
+Fork the repository
+Create a feature branch
+Commit your changes
+Push and create a Pull Request
+
 
 📄 License
+
 This project is licensed under the MIT License.
 
 👨‍💻 Developer
+
 Priya Shilpakar
 Frontend Developer | React Native Enthusiast
 Passionate about building clean UI and scalable mobile applications.
-
-
-
-
-
+	
