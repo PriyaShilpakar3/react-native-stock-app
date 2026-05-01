@@ -1,74 +1,44 @@
-📈 React Native Stock App
+# 📈 React Native Stock App
 
+A modern **React Native Stock Market Tracking Application** that allows users to monitor stock prices, visualize trends using interactive charts, and manage a personal portfolio. The app focuses on clean UI, smooth performance, and real-time financial insights.
 
+---
 
+## ✨ Features
 
-A modern React Native Stock Market Tracking Application that allows users to monitor stock prices, visualize trends using interactive charts, and manage a personal portfolio. The app focuses on clean UI, smooth performance, and real-time financial insights.
+- 📊 Real-time stock price tracking  
+- 📈 Interactive charts (line/bar visualization)  
+- 💼 Portfolio / Watchlist management  
+- 📉 Historical stock data visualization  
+- 📋 Portfolio performance summary  
+- ⚡ Fast and responsive UI  
+- 🎨 Clean and minimal user interface  
 
-✨ Features
+---
 
+## 🛠️ Tech Stack
 
-📊 Real-time stock price tracking
+- React Native  
+- JavaScript / TypeScript  
+- React Navigation  
+- Zustand / Redux (State Management)  
+- react-native-chart-kit  
+- Stock Market API (Alpha Vantage / Finnhub / Yahoo Finance)  
+- Axios / Fetch API  
 
+---
 
-📈 Interactive charts (line/bar visualization)
+## 📱 App Screens
 
+- 🏠 Explore Screen – Portfolio overview & market summary  
+- 📊 Charts Screen – Stock price visualization with graphs  
+- 💼 Portfolio Screen – Saved stocks and performance tracking  
 
-💼 Portfolio / Watchlist management
+---
 
+## 🏗️ Project Structure
 
-📉 Historical stock data visualization
-
-
-📋 Portfolio performance summary
-
-
-⚡ Fast and responsive UI
-
-
-🎨 Clean and minimal user interface
-
-
-
-🛠️ Tech Stack
-
-
-React Native
-
-
-JavaScript / TypeScript
-
-
-React Navigation
-
-
-Zustand / Redux (State Management)
-
-
-react-native-chart-kit
-
-
-Stock Market API (Alpha Vantage / Finnhub / Yahoo Finance)
-
-
-Axios / Fetch API
-
-
-
-📱 App Screens
-
-
-💼 Portfolio Screen – Saved stocks and performance tracking
-
-
-📊 Charts Screen – Stock price visualization with graphs
-
-
-🏠 Explore Screen – Portfolio overview & market summary
-
-
-
-🏗️ Project Structure
+```bash
 react-native-stock-app/
 │
 ├── src/
@@ -80,7 +50,6 @@ react-native-stock-app/
 │   └── utils/
 │
 ├── assets/
-    └── images/ 
 │   └── screenshots/
 │       ├── home1.png
 │       ├── home2.png
@@ -94,38 +63,42 @@ react-native-stock-app/
 ├── package.json
 ├── .gitignore
 └── README.md
-⚙️ Installation
-Clone the repository:
-git clone https://github.com/your-userna/react-native-stock-app.gitcd react-native-stock-app
-Install dependencies:
-npm install# oryarn install
 
-▶️ Run the App
-Android
-npx react-native run-android
-iOS
-npx react-native run-ios
+⚙️ Installation
+
+Clone the repository:
+
+git clone https://github.com/PriyaShilpakar3/react-native-stock-app.git
+cd react-native-stock-app
+
+Install dependencies:
+
+npm install
+# or
+yarn install
+
+Install dependencies:
+
+npm install
+# or
+yarn install
 
 🔑 Environment Variables
+
 Create a .env file in the root directory:
-STOCK_API_KEY=BASE_URL=https://www.alphavantage.co/query
+
+STOCK_API_KEY=KKUAWJ0ZZPMC3QGR
+BASE_URL=https://www.alphavantage.co/query
+
 
 📊 Core Functionality
 
+  Fetch live stock data from API
 
-Fetch live stock data from API
-
-
-Render dynamic stock charts
-
-
-Store and manage portfolio locally/state
-
-
-Track stock performance over time
-
-
-Visual comparison of gains/losses
+  Render dynamic stock charts
+  Store and manage portfolio locally/state
+  Track stock performance over time
+  Visual comparison of gains/losses
 
 
 
