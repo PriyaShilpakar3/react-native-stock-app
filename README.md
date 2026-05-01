@@ -69,8 +69,31 @@ Axios / Fetch API
 
 
 🏗️ Project Structure
-react-native-stock-app/│├── src/│   ├── components/        # Reusable UI components│   ├── screens/           # App screens (Home, Charts, Portfolio)│   ├── navigation/        # React Navigation setup│   ├── store/            # Zustand / Redux store│   ├── services/         # API calls (stock data)│   ├── constants/        # Theme, colors, configs│   └── utils/            # Helper functions│├── assets/               # Images & icons├── App.tsx              # Root component└── package.json
-
+react-native-stock-app/
+│
+├── src/
+│   ├── components/
+│   ├── screens/
+│   ├── navigation/
+│   ├── store/
+│   ├── services/
+│   └── utils/
+│
+├── assets/
+    └── images/ 
+│   └── screenshots/
+│       ├── home1.png
+│       ├── home2.png
+│       ├── home3.png
+│       ├── home4.png
+│       ├── chart1.png
+│       ├── chart2.png
+│       └── explore.png
+│
+├── App.tsx
+├── package.json
+├── .gitignore
+└── README.md
 ⚙️ Installation
 Clone the repository:
 git clone https://github.com/your-userna/react-native-stock-app.gitcd react-native-stock-app
@@ -108,21 +131,21 @@ Visual comparison of gains/losses
 
 ## 📸 Screenshots
 
-### 🏠 Home / Index Page
+### 🏠  Index Page
 | Screen 1 | Screen 2 |
 |----------|----------|
-| ![Home 1](./assets/screenshots/index1.png) | ![Home 2](./assets/screenshots/index2.png) |
+| ![Index 1](./assets/Screenshots/index1.png) | ![Index 2](./assets/Screenshots/index2.png) |
 
 | Screen 3 | Screen 4 |
 |----------|----------|
-| ![Home 3](./assets/screenshots/index3.png) | ![Home 4](./assets/screenshots/index4.png) |
+| ![Index 3](./assets/Screenshots/index3.png) | ![Index 4](./assets/Screenshots/index4.png) |
 
 ---
 
 ### 📊 Charts Page
 | Chart View 1 | Chart View 2 |
 |--------------|--------------|
-| ![Chart 1](./assets/screenshots/chart1.png) | ![Chart 2](./assets/screenshots/chart2.png) |
+| ![Chart 1](./assets/screenshots/charts1.png) | ![Chart 2](./assets/screenshots/charts2.png) |
 
 ---
 
