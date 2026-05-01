@@ -91,7 +91,7 @@ Visual comparison of gains/losses
 
 ## 📸 Screenshots
 
-### 🏠 Home / Index Page
+### 🏠  Index Page
 | Screen 1 | Screen 2 |
 |----------|----------|
 | ![Index 1](./assets/screenshots/index1.png) | ![Index 2](./assets/screenshots/index2.png) |
